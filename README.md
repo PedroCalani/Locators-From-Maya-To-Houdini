@@ -2,13 +2,13 @@
 
 "Tool in development"
 
-## *Archivos en el repositorio:*
+## *Archivos Principales*
 
 import_locators.shelf (va en la carpeta toolbar de houdini ubicada en documentos)
 
 shelf_Locators_Exporter.mel (va en la carpeta prefs\shelves de Maya ubicada en documentos)
 
-## *Archivos Adicionales:*
+### *Archivos extra*
 
 Export_locators_code.py (es el codigo de la tool de Maya colocado en un .py)
 
