@@ -2,18 +2,24 @@
 
 "Tool in development"
 
-Archivos en el repositorio:
+*Archivos en el repositorio:*
 import_locators.shelf (va en la carpeta toolbar de houdini ubicada en documentos)
+
 shelf_Locators_Exporter.mel (va en la carpeta prefs\shelves de Maya ubicada en documentos)
 
-Archivos Adicionales:
+*Archivos Adicionales:*
+
 Export_locators_code.py (es el codigo de la tool de Maya colocado en un .py)
+
 Import_locators_code (es el codigo de la tool de Houdini colocado en un .py)
+
 Test_Export_locators.json (es el json del ejemplo explicado más abajo en este documento)
 
 
-Cómo funciona?
+*Cómo funciona?*
+
 Desde una interfaz en maya podemos exportar un json con uno o más locators.
+
 Desde otra tool en houdini podemos leer ese json e importar todos esos locators en un nodo Add, o cada uno en diferentes nodos Add
 
 
