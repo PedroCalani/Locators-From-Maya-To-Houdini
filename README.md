@@ -28,21 +28,21 @@ Desde otra tool en houdini podemos leer ese json e importar todos esos locators 
 
 Cree una escena vacía en maya y coloqué varios locators en diferentes ubicaciones aleatorias:
 
-![image](https://github.com/user-attachments/assets/9e652c3c-3ee8-405d-8b2b-7cf31e509781)
+![image](https://github.com/user-attachments/assets/80aee527-dbb0-4c64-86fd-49e36c481608)
 
 Después abrí la tool. Inmediatamente aparecen todos los locators de la escena.
 Es posible ir seleccionando los que queremos exportar o seleccionar todos de una desde el check.
 También, en la parte superior debemos configurar dónde se exportará el json.
 
-![image](https://github.com/user-attachments/assets/a1463ab8-698d-419e-ae12-ab0ba44d42a7)
+![image](https://github.com/user-attachments/assets/8970269b-138f-4be2-8b46-5d9a4278418f)
 
 Una vez damos al botón la ventana se cierra y aparece la confirmación de que el json fue creado.
 
-![image](https://github.com/user-attachments/assets/72a56b64-49fa-4603-b679-bf13daa3f7a4)
+![image](https://github.com/user-attachments/assets/15d338e3-0b08-4c08-babe-2ed27ac179d3)
 
 Una vez en Houdini, abrimos la shelftool y se abre una ventana similar a la usada en Maya.
 
-![image](https://github.com/user-attachments/assets/eeaea635-6feb-4590-a0d1-b9f3f6d14869)
+![image](https://github.com/user-attachments/assets/778039d7-5431-4b44-ac65-bf86ca3ad146)
 
 Tendremos que seleccionar el archivo json creado anteriormente e inmediatamente aparecerán todos los locators que habíamos exportado.
 Además, tenemos la posibilidad de decidir cuales queremos importar. Lo hacemos con la misma forma de selección que en maya.
@@ -50,16 +50,17 @@ También, antes de pulsar el botón de importar, podemos configurar modo de impo
 * Importar todos los locators como puntos en un nodo Add.
 * Importar cada locator como un punto en nodos Add diferentes.
 * 
-![image](https://github.com/user-attachments/assets/2968a677-67fb-4764-933c-e39d9f32cfdd)
+![image](https://github.com/user-attachments/assets/00e7a284-2f7d-41d2-8ece-7a3a1fbac39f)
 
 Una vez exportamos, recibimos mensaje de confirmación la ventana se cierra y tendremos el nodo creado:
 
-![image](https://github.com/user-attachments/assets/d25a6706-8efb-4225-8fa9-6eb507dd194f)
-![image](https://github.com/user-attachments/assets/c5f77f65-6339-42bd-b177-9405155fbb13)
+![image](https://github.com/user-attachments/assets/3520c04c-7100-49df-9d6b-f694bbb2ffe8)
+![image](https://github.com/user-attachments/assets/3bb2eddf-35c5-479e-89fc-761465b4dd7b)
 
 Si hubiéramos importado con la otra opción:
 
-![image](https://github.com/user-attachments/assets/824e8c43-30c3-46ff-b8b0-708fc4dbf72a)
-![image](https://github.com/user-attachments/assets/6ef09458-25ac-4174-911d-b199823d4563)
+![image](https://github.com/user-attachments/assets/6e1f6022-8af7-48d4-a27c-417eb8c1be3c)
+![image](https://github.com/user-attachments/assets/c3be3c56-23fe-4624-8e8d-74cdaa00476e)
+
 
 
