@@ -119,7 +119,7 @@ class Window_Import_Locators(QtWidgets.QWidget):
         selected_file = select_file[0]
         self.json_file.setText(selected_file)
 
-        # Check if it is a valid json.
+        # Check if selected json is valid.
         is_valid = self.verify_valid_json(selected_file)
 
         # Update list with locators.
