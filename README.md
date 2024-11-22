@@ -6,7 +6,7 @@ import_locators.shelf (Copy it to your houdini toolbar folder. This will usually
 
 shelf_Locators_Exporter.mel (Copy it to your maya shelves folder. This will usually be in "C:\Users\NAME\Documents\maya\2025\prefs\shelves").
 
-## *How it works?*
+## *How does it work?*
 
 A tool allows to export Maya locators in a JSON file.
 
